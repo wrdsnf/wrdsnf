@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Warda
 
+- 🔭 I’m currently studying on Information Engineering Universitas Gadjah Mada
+- 🌱 I’m currently learning python, javascript, html, css, and c++
+- 🤔 I’m looking for help with cybersecurity
+- 📫 How to reach me: wardafawahana@gmail.com
+- ⚡ Fun fact: I like to learn new things, and I'm still searching for my specific interest on IT 
 <!--
 **wrdsnf/wrdsnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

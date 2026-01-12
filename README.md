@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Warda%20Saniia%20Fawahaana&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 ### About Me
 - I’m currently working on **My 3D Website Portofolio**
 - I’m currently learning **Cybersecurity and Web3**
 - Student at **Universitas Gadjah Mada**
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🛠️ Languages & Tools
 
